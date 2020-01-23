@@ -1,0 +1,9 @@
+Answer 5
+Nearest Neighbour results in a sharp image, when it is used to zoom an image, it results in high amount of 
+pixalation causing to degrade the picture quality, where as the bicubic and bilinear results in less pixalation
+due to good approximations(better for bicubic). When  Nearest Neighbour is used to rotate an image it results 
+in better quality(sharp and clear), where as bicubic and bilinear results in a blurry image.
+
+Answer 6
+a. (2048/50)/2=20
+b. 2048/2 =1024
